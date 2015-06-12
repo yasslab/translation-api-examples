@@ -27,9 +27,4 @@ job2 = {
     comment:      'This one has a comment',
 }
 
-begin
-  puts JSON.dump(gengo.postTranslationJobs(jobs: {job1: job1, job2: job2}))
-rescue => e
-  require 'pry'
-  binding.pry
-end
+puts JSON.dump(gengo.postTranslationJobs(jobs: {job1: job1, job2: job2}))
