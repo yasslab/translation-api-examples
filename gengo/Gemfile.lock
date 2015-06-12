@@ -14,6 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   gengo
+  json
 
 BUNDLED WITH
    1.10.3
