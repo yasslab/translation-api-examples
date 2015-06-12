@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gengo (0.0.6)
+      json
+      mime-types
+      multipart-post
+    json (1.8.3)
+    mime-types (2.6.1)
+    multipart-post (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gengo
+
+BUNDLED WITH
+   1.10.3
