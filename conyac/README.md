@@ -35,3 +35,10 @@ $ cat >> .envrc
 export CONYAC_ACCESS_TOKEN='YOUR_ACCESS_TOKEN'
 $ direnv allow
 ```
+
+
+### Test API
+
+```console
+$ curl -LSfs -X GET https://biz.conyac.cc/api/v1/my -d "access_token=$CONYAC_ACCESS_TOKEN"
+```
