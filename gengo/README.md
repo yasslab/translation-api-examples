@@ -14,5 +14,5 @@ export GENGO_PRIVATE_KEY='YOUR GENGO API PRIVATE KEY'
 
 $ direnv allow
 $ BUNDLE_GEMFILE=./Gemfile bundle install
-$ BUNDLE_GEMFILE=./Gemfile bundle exec ruby 〜.rb
+$ BUNDLE_GEMFILE=./Gemfile bundle exec ruby 〜.rb | jq .
 ```
