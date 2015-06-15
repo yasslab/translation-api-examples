@@ -1,0 +1,4 @@
+export CONYAC_APP_ID=''
+export CONYAC_APP_SECRET=''
+export CONYAC_ACCESS_TOKEN=''
+export CONYAC_ORGANIZATION_ID=''
