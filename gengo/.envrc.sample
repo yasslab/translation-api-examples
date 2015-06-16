@@ -1,2 +1,3 @@
 export GENGO_PUBLIC_KEY=''
 export GENGO_PRIVATE_KEY=''
+export GENGO_USE_SANDBOX=t
