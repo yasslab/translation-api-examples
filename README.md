@@ -1,7 +1,7 @@
 Sample scripts to call APIs of Professional Translation Services that include:
 
-- Gengo
-- Conyac
+- [Gengo](http://gengo.com/)
+- [Conyac](https://conyac.cc/)
 
 We might add other examples upon request.
 Feel free to contact us.
