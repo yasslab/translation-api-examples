@@ -15,6 +15,7 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     slop (3.6.0)
+    to_md (1.0.0)
 
 PLATFORMS
   ruby
@@ -23,6 +24,7 @@ DEPENDENCIES
   gengo
   json
   pry
+  to_md
 
 BUNDLED WITH
-   1.10.3
+   1.10.6
