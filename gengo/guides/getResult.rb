@@ -1,3 +1,5 @@
+# bundle exec ruby getResult.rb > results.json
+
 require 'gengo'
 require 'pp'
 require 'json'
