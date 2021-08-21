@@ -6,7 +6,7 @@ GEM
       json
       mime-types
       multipart-post
-    json (1.8.3)
+    json (2.3.0)
     method_source (0.8.2)
     mime-types (2.6.1)
     multipart-post (2.0.0)
